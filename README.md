@@ -2,6 +2,8 @@
 
 This is the starter code for [Assignment 8](https://course.ccs.neu.edu/cs3650sp22/a08.html).
 
+# Please use the following command before using the make command "find . -exec touch {} \;"
+
 The [Makefile](Makefile) contains the following targets:
 
 - `make all` - compile `msort` and `tmsort`
